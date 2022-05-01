@@ -1,4 +1,4 @@
-# DRUG API
+# MEDSTORE SERVER API
 
 ## Features
 
@@ -50,3 +50,5 @@ e.g id1,id2,id3,
 ```
     <BASE_URL>/api/deleteonebrand/?genericid=<GENERIC_ID>&brandid=<BRAND_ID>
 ```
+
+### Stay turned!

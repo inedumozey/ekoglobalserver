@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon main"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
@@ -24,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "htpps://github.com/inedumozey/medstore.git"
+    "url": "htpps://github.com/inedumozey/medstoreServer.git"
   },
   "bugs": {
-    "url": "https://github.com/inedumozey/medstore/issues"
+    "url": "https://github.com/inedumozey/medstoreServer/issues"
   },
-  "homepage": "https://github.com/inedumozey/medstore#readme",
+  "homepage": "https://github.com/inedumozey/medstoreServer#readme",
 
   "devDependencies": {
     "dotenv": "^16.0.0"
