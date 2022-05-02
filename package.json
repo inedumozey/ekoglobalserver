@@ -1,6 +1,6 @@
 {
-  "name": "server",
-  "version": "1.0.0",
+  "name": "ekoglobalserver",
+  "version": "0.1.0",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -25,12 +25,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "htpps://github.com/inedumozey/medstoreServer.git"
+    "url": "https://github.com/inedumozey/ekoglobalserver.git"
   },
   "bugs": {
-    "url": "https://github.com/inedumozey/medstoreServer/issues"
+    "url": "https://github.com/inedumozey/ekoglobalserver/issues"
   },
-  "homepage": "https://github.com/inedumozey/medstoreServer#readme",
 
   "devDependencies": {
     "dotenv": "^16.0.0"
