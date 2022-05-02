@@ -2,6 +2,13 @@
 
 # Descriptions
 
+At this time, the api is still on development hence using http://localhost:5000 as BASE_URL
+
+BASE_URL
+```
+    http://localhost:5000
+```
+
 * View all drugs api: get request
 ```
     <BASE_URL>/api/drugs/
